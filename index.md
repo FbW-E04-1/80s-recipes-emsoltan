@@ -5,7 +5,7 @@ It would not taste better than it looks. <br>
 
 ![Lime Gelatin Salad I](/images/lime-gelatin-salad.jpg)
 
-### [Recipe](/reipes/lime-gelatin-salad.md) *"On your own responsibility"*
+### [Recipe](recipes/lime-gelatin-salad.md) *"On your own responsibility"*
 
 
 > ## Perfection Salad
@@ -19,5 +19,5 @@ Yes, it looks like someone threw up and it got frozen. <br>
 The name even doesn't make sense.   
 
 ![Frosted Sandwich Loaf](images/frosted-sandwich-loaf.jpg)
-###  [Recipe](recipes/frosted-sandwich-loaf), *like you've got nothing to lose.*
+###  [Recipe](recipes/frosted-sandwich-loaf.md), *like you've got nothing to lose.*
 

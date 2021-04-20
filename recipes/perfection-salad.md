@@ -3,6 +3,8 @@
 ![Perfection crap](/images/perfection-salad.jpg)
 
 > ## Ingredients
+<br>
+
 - 2 envelopes unflavored gelatine
 - 1/2 cup sugar
 - 1 teaspoon salt
@@ -33,4 +35,4 @@
 6. To unmold: Run small spatula around edge of mold; invert onto serving plate. Place hot dishcloth over mold; shake gently to release. Repeat, if necessary. Lift off mold. refrigerate until ready to serve.
 Makes 8 servings, to be plenty to throw in the trash.
 
-[Back to Index](../index.md)
+*[Back to Index](../index.md)*

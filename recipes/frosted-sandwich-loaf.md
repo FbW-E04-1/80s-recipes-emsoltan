@@ -5,6 +5,8 @@
 This recipe is very versatile as you can use many different fillings, including thin sliced meats, seafood salad--or make up one of your own. You may use less salad dressing, if you like, in the spreads.
 
 > ## Ingredients
+<br>
+
 - 2 cups fully cooked ground ham
 - ½ cup creamy salad dressing (e.g. Miracle Whip)
 - 3 tablespoons sweet pickle relish
@@ -29,6 +31,8 @@ This recipe is very versatile as you can use many different fillings, including 
 - 1 (2 ounce) bottle diced pimento, drained 
 
 > ## Directions  
+<br>
+
 
 
 **Step 1**  

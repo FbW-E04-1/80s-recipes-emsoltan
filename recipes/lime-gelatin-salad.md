@@ -5,7 +5,8 @@ This is a great recipe my mom got from my aunt. She has made it every year for T
 ![Lime Gelatin Salad](/images/lime-gelatin-salad.jpg)
 
 
-> ## Ingredients
+> ## Ingredients  <br>
+
 - 1 cup boiling water
 - 1 (6 ounce) package lime flavored Jell-O® mix
 - 1 (20 ounce) can crushed pineapple, drained with juice reserved
@@ -27,3 +28,5 @@ Meanwhile, place crushed pineapple and remaining juice in a small saucepan. Brin
 **Step 3**
 
 In a large bowl, blend softened cream cheese and lime gelatin until smooth. Mix in the cooled pineapple. In a medium bowl, whip cream until soft peaks form. Fold into gelatin mixture. Fold in chopped nuts. Pour into a pretty crystal bowl, and refrigerate for at least 4 hours, or until set.
+
+*[Back to Index](../index.md)*
