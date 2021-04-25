@@ -1,6 +1,6 @@
 # Frosted Sandwich Loaf
 
-![Frosted Sandwich Loaf](/images/frosted-sandwich-loaf.jpg)
+![Frosted Sandwich Loaf](../images/frosted-sandwich-loaf.jpg)
 
 This recipe is very versatile as you can use many different fillings, including thin sliced meats, seafood salad--or make up one of your own. You may use less salad dressing, if you like, in the spreads.
 
