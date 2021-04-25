@@ -3,7 +3,7 @@
 > ## Lime Gelatin Salad I
 It would not taste better than it looks. <br>
 
-![Lime Gelatin Salad I](/images/lime-gelatin-salad.jpg)
+![Lime Gelatin Salad I](copylime-gelatin-salad.jpg)
 
 ### [Recipe](recipes/lime-gelatin-salad.md) *"On your own responsibility"*
 
